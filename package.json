@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@azure/cosmos": "^4.0.0",
-    "firebase-admin": "^11.10.1"
+    "@azure/cosmos": "^4.0.0"
   }
 }
